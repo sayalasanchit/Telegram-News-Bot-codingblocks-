@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newsbot-uqojka",
+  "private_key_id": "a130767397a4ff7ce696b513297b28b01600d467",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCf4f2g1NRQMrZp\nZZDk3Tc0n7Hl4RMkWNi3odN5+oGqRqbe8plaaLo9M83DAMO20QXPstLhjymqugyB\n3jACBapwr9ISfulOe/Luju2DNN7wRWVC0WkOu7rw5+0+BuAwEVboqk32fxN9vU1J\nHI8Wg9FnsXivyksrTqwMxDiuSW1ctV1nXgmayuOBEQB00bMchdiUKIDTZYJIthwV\n0rbMwUc26y4IJIVFjfS1w5+5bhJ/Hoc5bEUXKbHRzIScsq1RC8QRvDt6emyEHNhm\niQhTfcgUG7rk1luI3IsWC7IHUUGaEcydWzMu/RszRYKp+RLC9Xz4wfwl8LWa0NLw\nOKswySglAgMBAAECggEAFG/djQWvhvnYhdPxB8Q8NoqUQaN54CtINn7lyqGKGhMy\naOy/TAZ3ifO5gUvzeIay9Lfxy1nStGtYRnB5mAST4xgiZPFajsj6xmI4O42SUsm4\nFiixAmxeSsWGtqdH2HUa9B4y3YekXO4J90bChpj+d0ABAo17+tLxXKdnbGXf6Bnm\nAL+RqM7EGCtVO+ZXx2mKQ1/uoscArUzc999ElxB5+hWUsSMnf0Y7wsnxxE7OZ1ln\nFHmZGfrr9NzPmEdLAm5P2NaC0YbcvLBZumXJj2djqnAaR/LMLY4wQYxCmsPS3SC2\nIu9rbssJyU8MtddMDj4mqWUmecgHE5W8db1RmEOvyQKBgQDWsdYGxIzgwYZ4iFOw\nPRbfUecXisizaMxVVfpMe1ZtvQ1ihyokoq5uRxm2skIELGrU78SOmPRm3S4T8A/Y\nE4LNbFxIEW5E1/nSFJxTWEhxY3oxWnFF6lLHa36kqbUjGWhzntT+HGleZkocit/Y\ngARWtv1/0PQMLh6kaBx53aGpTQKBgQC+pI24hXJWmpzkZ0Ku5YkYoVN6mqqu6oAp\n/2iOLyDRtlNU3gbw1LFF6Aery6IlAiGsMefHAfpJD1G7Fx9Gh+XmaC9RsPJ6NejA\nVRowB1l1ClA2lEFfWOX7Unbcm6ts3WfYFZ4R/ACnortNCTH33QGbvUjwlJCUQlL5\nVkCX7IlOOQKBgQC7B4kvtCIV2gFPF1PwgAdg3HS4qYpV4MHAxXmbDwcn6j2yy5UG\n/UF/iCj6Yyfngto+TfGpV83xnlT5wXPMBJM6aV+q2KR7DLrxLEtSv+G8BbD5NZTg\nF1WtrBNTVxQZU5UOxBtAk3enaOy/GKwQatVcxWTo6BryUWsYRioob87ZMQKBgDGS\nNiuhv25Xe65ET2mM084svLknmHQtE7BX8kbuaDk/kIGDzgg3NfU4dS4tn/bBjCHr\nRBpSIFN5AUaFp6M+WQBFXPB/8zzl4aSJPGr6rj8ptFvMxwbU5dAozDFm5PdExujA\nDj8c6MquHMfWOUD7HZzyZhHwf3udl1ewHtGiNr25AoGBAKC4z8PcjhMbytRTYsxX\nKooK3UTmzPQoq7eDK50m8YGL+OarjDiOAYnHMLUgHwlsbiM+uIfmRNaP00JxBO1w\nr1XW+MEA/Oqn57VV77RZuG9lRUGFOoewycwjblhm4W6GreS7SZWFs7onMlmYl/d2\nWhHdmGoE6244B3UZL5p1YiZL\n-----END PRIVATE KEY-----\n",
+  "client_email": "newsbot-uqojka@appspot.gserviceaccount.com",
+  "client_id": "109404680479952104535",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newsbot-uqojka%40appspot.gserviceaccount.com"
+}

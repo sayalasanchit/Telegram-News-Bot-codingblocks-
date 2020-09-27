@@ -1,0 +1,7 @@
+botEnv/
+*.pyc
+conv_bot.py
+conv_bot(Heroku).py
+echo_bot.py
+echo_bot(with webhook).py
+api.txt
